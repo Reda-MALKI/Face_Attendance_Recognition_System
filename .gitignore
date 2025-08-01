@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But do NOT ignore these:
+!.gitignore
+!images/
+!images/**
+!Face_recognition_Attendance.ipynb
+!Attendance.csv
